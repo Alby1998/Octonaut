@@ -1,0 +1,468 @@
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile5.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8_fire.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\TestUI.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_dodge.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_player.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe.config
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.pdb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\obj\x86\Release\Octonaut.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\obj\x86\Release\Octonaut.exe
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\obj\x86\Release\Octonaut.pdb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile4.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile4.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile4.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile4.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile5.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8_fire.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_dodge.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_player.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\TestUI.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t1.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t2.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t3.xnb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe.config
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.pdb
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\obj\x86\Release\Octonaut.csprojResolveAssemblyReference.cache
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\obj\x86\Release\Octonaut.exe
+E:\00. Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Project\Octonaut\Octonaut\obj\x86\Release\Octonaut.pdb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Spring\spring.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\RedRay\redray.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Jetclaw\jetclaw.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv1name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv2name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv3name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv4name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv5name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv6name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv7name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv8name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv9name.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Ghost\ghost.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\explosion\explosion_small.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\gs.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\sb.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\stagecomplete2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\strip.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\thestrip.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Bosses\Treat\big_treat.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Bosses\Treat\small_treat.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\font\fontBP.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\gameover.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\panic.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\UI.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\byeExplosion.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\controller.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\controls.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\copyright.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\credits.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\KEYBOARD.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\logotype.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\pressstart.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\start.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\ts-background.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_death.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\obj\x86\Release\Octonaut.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv1.wma
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv2.wma
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv3.wma
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lvend.wma
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lvend.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_ts.wma
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_ts.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Turnbot\turnbot.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\TitleScreen\Select.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\TitleScreen\Selected.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Disk\disk.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\eDeath.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\gamePause.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\panic.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\pDeath.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\powerUp.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\sd_shot1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\sd_shot2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\shield.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv1.wma
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv2.wma
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv3.wma
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lvend.wma
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lvend.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_ts.wma
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_ts.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile5.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8_fire.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Pause\continue.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Pause\menu.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\4.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv1name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv2name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv3name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv4name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv5name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv6name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv7name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv8name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv9name.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\gs.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\sb.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\stagecomplete2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\strip.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\thestrip.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\font\fontBP.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\gameover.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\panic.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\TestUI.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\UI.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Turnbot\turnbot.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Spring\spring.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\controller.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\controls.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\copyright.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\credits.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\KEYBOARD.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\logotype.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\mCredits.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\pressstart.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\start.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\ts-background.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\RedRay\redray.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Jetclaw\jetclaw.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\TitleScreen\Select.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\TitleScreen\Selected.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Ghost\ghost.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\eDeath.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\gamePause.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\panic.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\pDeath.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\powerUp.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\sd_shot1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\sd_shot2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\shield.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\explosion\explosion_small.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Disk\disk.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Bosses\Treat\big_treat.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Bosses\Treat\small_treat.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye1.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye2.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye3.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\byeExplosion.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_death.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_dodge.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_player.xnb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe.config
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.pdb
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\obj\x86\Release\Octonaut.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\obj\x86\Release\Octonaut.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\obj\x86\Release\Octonaut.exe
+C:\Users\Joseph\Desktop\Octonaut (9)\Octonaut (9)\Octonaut\Octonaut\obj\x86\Release\Octonaut.pdb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv9\lv9tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8tile5.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv8\lv8_fire.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv7\lv7tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv6\lv6tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv5\lv5tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv4\lv4tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv3\lv3tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\redesign\4.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv2\lv2tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\lv_bg\lv1\lv1tile4.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv1.wma
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv2.wma
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv3.wma
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lv3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lvend.wma
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_lvend.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_ts.wma
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Music\music_ts.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Turnbot\turnbot.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\transition\t3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Spring\spring.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv1name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv2name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv3name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv4name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv5name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv6name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv7name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv8name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\levelname\lv9name.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\RedRay\redray.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\gs.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\sb.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\stagecomplete2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\strip.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\levelend\thestrip.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Jetclaw\jetclaw.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\font\fontBP.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Ghost\ghost.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\cooldown2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\gameover.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\panic.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\TestUI.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\UI\UI.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\explosion\explosion_small.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\controller.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\controls.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\copyright.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\credits.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\KEYBOARD.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\logotype.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\mCredits.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\pressstart.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\start.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\ts-background.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Disk\disk.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\TitleScreen\Select.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\TitleScreen\Selected.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Bosses\Treat\big_treat.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\Bosses\Treat\small_treat.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\eDeath.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\gamePause.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\panic.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\pDeath.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\powerUp.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\sd_shot1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\sd_shot2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\SFX\General\shield.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\beye3.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Enemy\beye\byeExplosion.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet1.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\bullets\Bullet2.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_death.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_dodge.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\player\Octo_player.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Buff\buff.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Pause\continue.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Pause\menu.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe.config
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.exe
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Octonaut.pdb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\MonoGame.Framework.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.DXGI.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.XInput.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\SharpDX.Direct3D9.xml
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\obj\x86\Release\Octonaut.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\obj\x86\Release\Octonaut.exe
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\obj\x86\Release\Octonaut.pdb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\Pause.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\splashcredits\Credits.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\bin\Windows\x86\Release\Content\Titlescreen\splashcredits\Splash Screen.xnb
+C:\Users\Joseph\Desktop\Octonaut (2)\Octonaut\Octonaut\obj\x86\Release\Octonaut.csprojResolveAssemblyReference.cache

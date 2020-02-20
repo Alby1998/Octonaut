@@ -1,0 +1,165 @@
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.exe
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.pdb
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joseph\source\repos\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\source\repos\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\Game1\Game1\obj\x86\Debug\Octonaut Test.exe
+C:\Users\Joseph\source\repos\Game1\Game1\obj\x86\Debug\Octonaut Test.pdb
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\Lv1Tile1.xnb
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\Lv1Tile2.xnb
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\Lv1Tile3.xnb
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\Lv1Tile4.xnb
+C:\Users\Joseph\source\repos\Game1\Game1\bin\Windows\x86\Debug\Content\TestUI.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.exe
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.pdb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\obj\x86\Debug\Octonaut Test.exe
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\obj\x86\Debug\Octonaut Test.pdb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\UI\cooldown.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\UI\TestUI.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\player\bullets\Bullet1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\player\bullets\Bullet2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\player\Octo_dodge.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\player\Octo_player.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\VS Tut\Parallax Test\Game1\Game1\bin\Windows\x86\Debug\Content\UI\cooldown2.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile1.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile2.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile3.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\Lv1Tile4.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\Octo_dodge.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\Octo_player.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\bullets\Bullet1.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\bullets\Bullet2.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\cooldown.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\TestUI.xnb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.exe.config
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.exe
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Octonaut Test.pdb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\obj\x86\Debug\Octonaut Test.exe
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\obj\x86\Debug\Octonaut Test.pdb
+C:\Users\w1635359\Desktop\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\cooldown2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\cooldown.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\cooldown2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\TestUI.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\bullets\Bullet1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\bullets\Bullet2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\lv1tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\lv1tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\lv1tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv1\lv1tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\Octo_dodge.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\player\Octo_player.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\obj\x86\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv2\lv2tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv2\lv2tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv2\lv2tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv2\lv2tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv3\lv3tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv3\lv3tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv4\lv4tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv4\lv4tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv4\lv4tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv5\lv5tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv5\lv5tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv5\lv5tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv5\lv5tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv6\lv6tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv6\lv6tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv6\lv6tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv7\lv7tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv7\lv7tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv7\lv7tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv8\lv8tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv8\lv8tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv8\lv8tile3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv8\lv8tile4.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv8\lv8tile5.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv9\lv9tile1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv9\lv9tile2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\lv_bg\lv8\lv8_fire.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\transition\t1.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\transition\t2.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Content\UI\transition\t3.xnb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Octonaut.exe.config
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Octonaut.exe
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\bin\Windows\x86\Debug\Octonaut.pdb
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\obj\x86\Debug\Octonaut.exe
+C:\Users\Joseph\Desktop\Uni\1. Computer Games Group Project 1\Semester 2\Octonaut Tests\Octonaut\Game1\Game1\obj\x86\Debug\Octonaut.pdb
